@@ -1,7 +1,7 @@
 ## Hi there 👋
-![Header](![github-header-image](https://github.com/Onesoonduck/Onesoonduck/assets/155965974/980019f4-0e35-4705-ba88-c9b4b06ac935)
+![Header](![github-header-image](https://github.com/Onesoonduck/Onesoonduck/assets/155965974/55033b24-4f35-48ac-99a0-d2c8f86a2e50)
 )
-)
+
 
 <!--
 **Onesoonduck/Onesoonduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
