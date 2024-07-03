@@ -3,7 +3,10 @@
 
 현재 열심히 공부중인 주니어 개발자 김동근입니다.
 
-<a href="https://www.notion.so/7032b6c5317f4002a4acdb1a9ea51fed" target="_blank"><img src="https://img.shields.io/badge/#000000?style=flat-square&logo=notion&logoColor=#000000"/></a>
+<a href="https://www.notion.so/7032b6c5317f4002a4acdb1a9ea51fed" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</a>
+
 
 메인 언어
 
