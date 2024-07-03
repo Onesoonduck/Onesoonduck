@@ -10,9 +10,10 @@
 <a href="https://www.notion.so/7032b6c5317f4002a4acdb1a9ea51fed" target="_blank">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOnesoonduck%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-📌Use as the main📌
+<div align="center">
+  📌Use as the main📌
+</div>
 
 
 
