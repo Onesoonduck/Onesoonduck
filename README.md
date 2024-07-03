@@ -1,5 +1,5 @@
 ## Hi there 👋
-(![github-header-image](https://github.com/Onesoonduck/Onesoonduck/assets/155965974/55033b24-4f35-48ac-99a0-d2c8f86a2e50))
+![github-header-image](https://github.com/Onesoonduck/Onesoonduck/assets/155965974/55033b24-4f35-48ac-99a0-d2c8f86a2e50)
 
 
 <!--
